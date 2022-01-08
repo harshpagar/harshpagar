@@ -5,7 +5,7 @@
 
 -🌱 I’m currently learning **Full Stack Web Development at Masai School**
 
-- 👨‍💻 All of my projects are available at <a href="https://harshalpagar-portfolio.netlify.app/" target="blank">Portfolio
+- 👨‍💻 All of my projects are available at <a href="https://harshalpagar-portfolio.netlify.app/" target="blank">Portfolio</a>
 
 - 📫 How to reach me **harshalpagar456@gmail.com**
 
