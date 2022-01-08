@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpagar&label=Profile%20views&color=0e75b6&style=flat" alt="harshpagar" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development at Masai School**
+-🌱 I’m currently learning **Full Stack Web Development at Masai School**
 
-- 👨‍💻 All of my projects are available at <a href="https://harshalpagar-portfolio.netlify.app/" target="blank">Portfolio
+- 👨‍💻 All of my projects are available at <a href="https://harshalpagar-portfolio.netlify.app/" target="blank">Portfolio<>
 
 - 📫 How to reach me **harshalpagar456@gmail.com**
 
