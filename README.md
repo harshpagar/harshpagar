@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal Pagar</h1>
-<b><h5>I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking for opportunity to creating a mark within a product-based company based on the acquired skillset and passion for coding.</h5></b>
+<b><h4>I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking for opportunity to creating a mark within a product-based company based on the acquired skillset and passion for coding.</h4></b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpagar&label=Profile%20views&color=0e75b6&style=flat" alt="harshpagar" /> </p>
 
